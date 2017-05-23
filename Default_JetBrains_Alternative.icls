@@ -1,0 +1,78 @@
+<scheme name="Default_JetBrains_Alternative" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2017-05-23T16:19:51</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2017.2.0.0</property>
+    <property name="modified">2017-05-23T16:20:03</property>
+    <property name="originalScheme">Default_Jet_Alternative</property>
+  </metaInfo>
+  <attributes>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+      </value>
+    </option>
+    <option name="DEFAULT_BRACES">
+      <value>
+        <option name="FOREGROUND" value="dc2326" />
+      </value>
+    </option>
+    <option name="DEFAULT_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="660e7a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_ENTITY">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+      </value>
+    </option>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="227cf7" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="8000" />
+      </value>
+    </option>
+    <option name="DEFAULT_TAG">
+      <value />
+    </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value />
+    </option>
+    <option name="HTML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+      </value>
+    </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ac4fa9" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="660e7a" />
+      </value>
+    </option>
+    <option name="PHP_BRACKETS">
+      <value />
+    </option>
+    <option name="PHP_TAG">
+      <value>
+        <option name="FOREGROUND" value="dc322f" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_KEY">
+      <value>
+        <option name="FOREGROUND" value="227cf7" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
