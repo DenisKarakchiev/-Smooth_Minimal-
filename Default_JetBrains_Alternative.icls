@@ -3,10 +3,15 @@
     <property name="created">2017-05-23T16:19:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.0.0</property>
-    <property name="modified">2017-05-23T16:20:03</property>
+    <property name="modified">2017-05-24T21:59:15</property>
     <property name="originalScheme">Default_Jet_Alternative</property>
   </metaInfo>
   <attributes>
+    <option name="CSS.PROPERTY_NAME">
+      <value>
+        <option name="FOREGROUND" value="1d1c1d" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="ff" />
