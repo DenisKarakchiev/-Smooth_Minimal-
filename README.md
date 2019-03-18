@@ -20,6 +20,8 @@ Here you go!
 
 ### Color palette
 
+For now i created theme basically for php, js, html and css files. But maybe it looks good on other languages too :)  
+
 ![Alt text](https://github.com/DenisKarakchiev/-Smooth_Minimal-/blob/master/screenshots/Color_palette.png?raw=true)
 
 ### Screenshots
