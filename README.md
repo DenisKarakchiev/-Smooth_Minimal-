@@ -12,7 +12,7 @@ It's not finished yet, but i already find it convinient for me to use, so hope i
 - Go to 'Settings' (ctrl+alt+s by default) -> 'Editor' -> 'Color Scheme'  
 - Press the icon in the right of name of your current color scheme    
 - Choose 'import scheme'  
-- Select file Smooth_Minimal.jar and press Apply in settings window   
+- Select file Smooth_Minimal.jar or Smooth_Minimal.icls and press Apply in settings window   
 Here you go!    
 
 
