@@ -1,4 +1,4 @@
-# {Smooth_Minimal}
+# Smooth Minimal
 Color theme for JetBrains IDE (basically for PHPStorm/WebStorm).
 
 ### Ideology
