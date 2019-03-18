@@ -20,26 +20,26 @@ Here you go!
 
 ### Color palette
 
-![Alt text](https://github.com/DenisKarakchiev/-Smooth_Minimal-/blob/master/Color_palette.png?raw=true)
+![Alt text](https://github.com/DenisKarakchiev/-Smooth_Minimal-/blob/master/screenshots/Color_palette.png?raw=true)
 
 ### Screenshots
 
 ###### HTML
 
-![Alt text](https://github.com/DenisKarakchiev/-Smooth_Minimal-/blob/master/screen_html.png?raw=true)
+![Alt text](https://github.com/DenisKarakchiev/-Smooth_Minimal-/blob/master/screenshots/screen_html.png?raw=true)
 -
 ###### CSS
 
-![Alt text](https://github.com/DenisKarakchiev/-Smooth_Minimal-/blob/master/screen_css.png?raw=true)
+![Alt text](https://github.com/DenisKarakchiev/-Smooth_Minimal-/blob/master/screenshots/screen_css.png?raw=true)
 -
 
 ###### JS
 
-![Alt text](https://github.com/DenisKarakchiev/-Smooth_Minimal-/blob/master/screen_js.png?raw=true)
+![Alt text](https://github.com/DenisKarakchiev/-Smooth_Minimal-/blob/master/screenshots/screen_js.png?raw=true)
 -
 
 ###### PHP
 
-![Alt text](https://github.com/DenisKarakchiev/-Smooth_Minimal-/blob/master/screen_php.png?raw=true)
+![Alt text](https://github.com/DenisKarakchiev/-Smooth_Minimal-/blob/master/screenshots/screen_php.png?raw=true)
 -
 
