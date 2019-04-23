@@ -1,4 +1,4 @@
-# Smooth Minimal
+# litydity
 Color theme for JetBrains IDE (basically for PHPStorm/WebStorm).    
 [Link on plugins.jetbrains.com](https://plugins.jetbrains.com/plugin/12117-smooth-minimal-color-scheme)     
 [Link on color-themes.com](http://color-themes.com/?view=theme&id=5c8f7cc644b9d11a00b8dbf4)
@@ -14,7 +14,7 @@ It's not finished yet, but i already find it convinient for me to use, so hope i
 - Go to 'Settings' (ctrl+alt+s by default) -> 'Editor' -> 'Color Scheme'  
 - Press the icon in the right of name of your current color scheme    
 - Choose 'import scheme'  
-- Select file Smooth_Minimal.jar or Smooth_Minimal.icls and press Apply in settings window   
+- Select file litydity.jar or litydity.icls and press Apply in settings window   
 Here you go!    
 
 
