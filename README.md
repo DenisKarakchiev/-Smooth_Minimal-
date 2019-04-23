@@ -1,6 +1,6 @@
 # litydity
 Color theme for JetBrains IDE (basically for PHPStorm/WebStorm).    
-[Link on plugins.jetbrains.com](https://plugins.jetbrains.com/plugin/12117-smooth-minimal-color-scheme)     
+[Link on plugins.jetbrains.com](https://plugins.jetbrains.com/plugin/12288-litydity-color-scheme)     
 [Link on color-themes.com](http://color-themes.com/?view=theme&id=5c8f7cc644b9d11a00b8dbf4)
 Font in examples: Fira Code Retina (font-size: 14px, line-height: 1.2)
 
@@ -12,6 +12,10 @@ Font in examples: Fira Code Retina (font-size: 14px, line-height: 1.2)
 
 ### Screenshots
 
+###### JavaScript
+
+![JavaScript](https://github.com/uokersam/litydity/blob/master/screenshots/presentation.png?raw=true)
+
 ###### HTML
 
 ![HTML](https://github.com/uokersam/litydity/blob/master/screenshots/html.png?raw=true)
@@ -21,7 +25,7 @@ Font in examples: Fira Code Retina (font-size: 14px, line-height: 1.2)
 ![CSS](https://github.com/uokersam/litydity/blob/master/screenshots/css.png?raw=true)
 -
 
-###### JS
+###### more JavaScript
 
 ![JS](https://github.com/uokersam/litydity/blob/master/screenshots/javascript.png?raw=true)
 -

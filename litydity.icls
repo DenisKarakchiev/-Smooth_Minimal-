@@ -1,11 +1,11 @@
-<scheme name="Smooth Minimal" version="142" parent_scheme="Default">
+<scheme name="litydity" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-04-23T16:28:42</property>
+    <property name="created">2019-04-23T16:56:13</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-23T16:28:57</property>
-    <property name="originalScheme">Smooth Minimal</property>
+    <property name="modified">2019-04-23T16:56:18</property>
+    <property name="originalScheme">litydity</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
