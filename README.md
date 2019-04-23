@@ -2,38 +2,45 @@
 Color theme for JetBrains IDE (basically for PHPStorm/WebStorm).    
 [Link on plugins.jetbrains.com](https://plugins.jetbrains.com/plugin/12117-smooth-minimal-color-scheme)     
 [Link on color-themes.com](http://color-themes.com/?view=theme&id=5c8f7cc644b9d11a00b8dbf4)
-Font in examples: Fira Code Retina
+Font in examples: Fira Code Retina (font-size: 14px, line-height: 1.2)
 
-### Color palette
+(😏 psst, if you give a star to this theme, i won't mind 😏)
 
-For now i created theme basically for php, js, html and css files. But maybe it looks good on other languages too :)  
+### Palette
 
-![Alt text](https://github.com/DenisKarakchiev/-Smooth_Minimal-/blob/master/screenshots/Color_palette.png?raw=true)
+![Palette](https://github.com/uokersam/litydity/blob/master/screenshots/palette.png?raw=true)
 
 ### Screenshots
 
 ###### HTML
 
-![Alt text](https://github.com/DenisKarakchiev/-Smooth_Minimal-/blob/master/screenshots/screen_html.png?raw=true)
+![HTML](https://github.com/uokersam/litydity/blob/master/screenshots/html.png?raw=true)
 -
 ###### CSS
 
-![Alt text](https://github.com/DenisKarakchiev/-Smooth_Minimal-/blob/master/screenshots/screen_css.png?raw=true)
+![CSS](https://github.com/uokersam/litydity/blob/master/screenshots/css.png?raw=true)
 -
 
 ###### JS
 
-![Alt text](https://github.com/DenisKarakchiev/-Smooth_Minimal-/blob/master/screenshots/screen_js.png?raw=true)
+![JS](https://github.com/uokersam/litydity/blob/master/screenshots/javascript.png?raw=true)
 -
 
 ###### PHP
 
-![Alt text](https://github.com/DenisKarakchiev/-Smooth_Minimal-/blob/master/screenshots/screen_php.png?raw=true)
+![PHP](https://github.com/uokersam/litydity/blob/master/screenshots/php.png?raw=true)
+-
+
+###### JSON
+
+![JSON](https://github.com/uokersam/litydity/blob/master/screenshots/json.png?raw=true)
 -
 
 ### Ideology
 
-I'm tired of all of these 'more colors for the God of colors' themes, that doesn't do their job: making programmind easier. 
+Don't you tired of all of these 'more colors for the God of colors' themes?
+Is they really do their job? Making coding easier? Or you just trying to not to drown in endless colors?
+
 I want to create simple theme that won't confusing you at the start and will highlight only important things. 
 It's not finished yet, but i already find it convinient for me to use, so hope it will helps you either.
 

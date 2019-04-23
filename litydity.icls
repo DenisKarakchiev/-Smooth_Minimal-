@@ -1,17 +1,18 @@
 <scheme name="Smooth Minimal" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-03-18T14:01:55</property>
+    <property name="created">2019-04-23T16:28:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-03-18T14:02:01</property>
+    <property name="modified">2019-04-23T16:28:57</property>
     <property name="originalScheme">Smooth Minimal</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="CARET_COLOR" value="e66153" />
@@ -179,9 +180,7 @@
         <option name="FOREGROUND" value="31a354" />
       </value>
     </option>
-    <option name="DEFAULT_TAG">
-      <value />
-    </option>
+    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value />
     </option>
@@ -217,14 +216,10 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HTML_ENTITY_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="808080" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="HTML_TAG">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="303030" />
+      </value>
     </option>
     <option name="HTML_TAG_NAME">
       <value>
@@ -409,8 +404,10 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="99ccbb" />
+        <option name="FOREGROUND" value="fafafa" />
+        <option name="BACKGROUND" value="ff5e0e" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="303030" />
       </value>
     </option>
     <option name="PHP_BRACKETS">
@@ -443,8 +440,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="f8f7f7" />
+        <option name="FOREGROUND" value="303030" />
+        <option name="BACKGROUND" value="fafafa" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
@@ -457,7 +454,6 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ffe4ff" />
-        <option name="EFFECT_COLOR" value="31a354" />
         <option name="ERROR_STRIPE_COLOR" value="f0adf0" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
