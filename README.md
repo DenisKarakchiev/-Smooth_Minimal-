@@ -1,7 +1,7 @@
 # litydity
 Color theme for JetBrains IDE (basically for PHPStorm/WebStorm).    
 [Link on plugins.jetbrains.com](https://plugins.jetbrains.com/plugin/12288-litydity-color-scheme)     
-[Link on color-themes.com](http://color-themes.com/?view=theme&id=5c8f7cc644b9d11a00b8dbf4)
+[Link on color-themes.com](http://color-themes.com/?view=theme&id=5cbf21c2bd88b31b007f04f8)
 Font in examples: Fira Code Retina (font-size: 14px, line-height: 1.2)
 
 (😏 psst, if you give a star to this theme, i won't mind 😏)
