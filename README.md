@@ -2,6 +2,7 @@
 Color theme for JetBrains IDE (basically for PHPStorm/WebStorm).    
 [Link on plugins.jetbrains.com](https://plugins.jetbrains.com/plugin/12117-smooth-minimal-color-scheme)     
 [Link on color-themes.com](http://color-themes.com/?view=theme&id=5c8f7cc644b9d11a00b8dbf4)
+Font in examples: Fira Code Retina
 
 ### Color palette
 
